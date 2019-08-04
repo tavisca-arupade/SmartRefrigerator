@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorTestProjectv2\\SmartRefrigeratorTestProjectv2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorTestProjectv2\\SmartRefrigeratorTestProjectv2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorTestProjectv2\\SmartRefrigeratorTestProjectv2.csproj",
+        "projectName": "SmartRefrigeratorTestProjectv2",
+        "projectPath": "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorTestProjectv2\\SmartRefrigeratorTestProjectv2.csproj",
+        "packagesPath": "C:\\Users\\arupade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorTestProjectv2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arupade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {
+              "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorv2\\SmartRefrigeratorv2.csproj": {
+                "projectPath": "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorv2\\SmartRefrigeratorv2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170425-07, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorv2\\SmartRefrigeratorv2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorv2\\SmartRefrigeratorv2.csproj",
+        "projectName": "SmartRefrigeratorv2",
+        "projectPath": "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorv2\\SmartRefrigeratorv2.csproj",
+        "packagesPath": "C:\\Users\\arupade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arupade\\source\\repos\\SmartRefrigeratorv2\\SmartRefrigeratorv2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arupade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

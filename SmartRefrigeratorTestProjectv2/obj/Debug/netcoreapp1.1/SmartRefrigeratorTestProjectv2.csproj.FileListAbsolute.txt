@@ -1,0 +1,15 @@
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.deps.json
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.runtimeconfig.json
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.runtimeconfig.dev.json
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.dll
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.pdb
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\SmartRefrigeratorv2.dll
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\bin\Debug\netcoreapp1.1\SmartRefrigeratorv2.pdb
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\obj\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.csprojResolveAssemblyReference.cache
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\obj\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.csproj.CoreCompileInputs.cache
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\obj\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.AssemblyInfo.cs
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\obj\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.dll
+c:\users\arupade\source\repos\SmartRefrigeratorv2\SmartRefrigeratorTestProjectv2\obj\Debug\netcoreapp1.1\SmartRefrigeratorTestProjectv2.pdb
